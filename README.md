@@ -23,10 +23,10 @@ Antes de começar, é necessário ter instalado em sua máquina as seguintes fer
 <ul><b>Na pasta cypress</b> > support > steps - </b>Está o arquivo responsável por interpretar os steps da feature</ul>
 
 <p><b>Como rodar o projeto:</b></p>
-<b>Pelo terminal:</b>
-    <ul><i>npx cypress run</i></ul>
-<b>Pelo loader do Cypress</b>
-    <ul><i>npx cypress open</i></ul>
-    <ul><i>Clicar em user.feature</i></ul>
+<ul><b>Pelo terminal:</b></ul>
+    <ul><li><i>npx cypress run</i></li></ul>
+<ul><b>Pelo loader do Cypress</b></ul>
+    <ul><li><i>npx cypress open</i></li></ul>
+    <ul><li><i>Clicar em user.feature</i></li></ul>
 
 ![alt text](image/success-test.png)
