@@ -18,15 +18,15 @@ Antes de começar, é necessário ter instalado em sua máquina as seguintes fer
 <b>Instalação Cypress</b>
 <ul><i>npm install cypress</i></ul>
 
-* **Sobre o projeto:**
-**<b>Na pasta cypress</b> > integration - Está a feature de teste**
-**<b>Na pasta cypress</b> > support > steps - Está o arquivo responsável por interpretar os steps da feature**
+<b>Sobre o projeto:</b>
+<ul><b>Na pasta cypress</b> > integration - Está a feature de teste</ul>
+<ul><b>Na pasta cypress</b> > support > steps - Está o arquivo responsável por interpretar os steps da feature</ul>
 
-* **Como rodar o projeto:**
-**Pelo terminal:**
-    **<i>npx cypress run</i>**
-**Pelo loader do Cypress**
-    **<i>npx cypress open</i>**
-    **Clicar em user.feature**
+<b>Como rodar o projeto:</b>
+<b>Pelo terminal:</b>
+    <ul><i>npx cypress run</i></ul>
+<b>Pelo loader do Cypress</b>
+    <ul><i>npx cypress open</i></ul>
+    <ul>Clicar em user.feature</ul>
 
 ![alt text](image/success-test.png)
