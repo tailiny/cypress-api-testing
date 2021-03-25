@@ -20,7 +20,7 @@ Antes de começar, é necessário ter instalado em sua máquina as seguintes fer
 
 <b>Sobre o projeto:</b>
 <ul><b>Na pasta cypress > integration - </b>Está a feature de teste</ul>
-<ul><b>Na pasta cypress</b> > support > steps - </b>Está o arquivo responsável por interpretar os steps da feature</ul>
+<ul><b>Na pasta cypress > support > steps - </b>Está o arquivo responsável por interpretar os steps da feature</ul>
 
 <p><b>Como rodar o projeto:</b></p>
 <ul><b>Pelo terminal:</b></ul>
