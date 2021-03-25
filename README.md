@@ -12,21 +12,21 @@ O projeto realizado tem como objetivo manipular cadastro de usuários utilizando
 
 Antes de começar, é necessário ter instalado em sua máquina as seguintes ferramentas:
     [Node.js](https://nodejs.org/en/download/package-manager/)
-    [NPM] (https://www.npmjs.com/get-npm)
-    [Editor de texto] (https://code.visualstudio.com/)
+    [NPM](https://www.npmjs.com/get-npm)
+    [Editor de texto](https://code.visualstudio.com/)
 
 * **Instalação Cypress**
-    Cypress- npm install cypress
+    ***Cypress- <i>npm install cypress</i>***
 
 * **Sobre o projeto:**
-    Na pasta cypress > integration - Está a feature de teste
-    Na pasta cypress > support > steps - Está o arquivo responsável por interpretar os steps da feature
+    ***Na pasta cypress > integration - Está a feature de teste***
+    ***Na pasta cypress > support > steps - Está o arquivo responsável por interpretar os steps da feature***
 
 * **Como rodar o projeto:**
-    Pelo terminal:
-        npx cypress run
-    Pelo loader do Cypress
-        npx cypress open
-        Clicar em user.feature
+    **Pelo terminal:**
+        ***<i>npx cypress run</i>***
+    **Pelo loader do Cypress**
+        ***<i>npx cypress open</i>***
+        ***Clicar em user.feature***
 
 ![alt text](image/success-test.png)
