@@ -1,0 +1,6 @@
+{
+    "projectId": "85s2bc",
+    "testFiles": "**/*.feature",
+    "baseUrl": "https://gorest.co.in/public-api/users",
+    "ignoreTestFiles": "*.js"
+}
