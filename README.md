@@ -16,17 +16,17 @@ Antes de começar, é necessário ter instalado em sua máquina as seguintes fer
     [Editor de texto](https://code.visualstudio.com/)
 
 * **Instalação Cypress**
-    ***Cypress- <i>npm install cypress</i>***
+    **<i>npm install cypress</i>**
 
 * **Sobre o projeto:**
-    ***Na pasta cypress > integration - Está a feature de teste***
-    ***Na pasta cypress > support > steps - Está o arquivo responsável por interpretar os steps da feature***
+    **<b>Na pasta cypress</b> > integration - Está a feature de teste**
+    **<b>Na pasta cypress</b> > support > steps - Está o arquivo responsável por interpretar os steps da feature**
 
 * **Como rodar o projeto:**
     **Pelo terminal:**
-        ***<i>npx cypress run</i>***
+        **<i>npx cypress run</i>**
     **Pelo loader do Cypress**
-        ***<i>npx cypress open</i>***
-        ***Clicar em user.feature***
+        **<i>npx cypress open</i>**
+        **Clicar em user.feature**
 
 ![alt text](image/success-test.png)
